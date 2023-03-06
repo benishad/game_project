@@ -6,12 +6,12 @@
 
  * 3Ds Max 와 Blender 를 활용한 모델 리깅 작업
  
-<img src="https://user-images.githubusercontent.com/50231941/223143913-4dc72f7a-37b7-4766-b2d3-738b2da9718a.png" width="500" height=500" />
-<img src="https://user-images.githubusercontent.com/50231941/223144152-6923b848-3216-4bb2-a334-cf576dc187e9.png" width="500" height=500" />
+<img src="https://user-images.githubusercontent.com/50231941/223143913-4dc72f7a-37b7-4766-b2d3-738b2da9718a.png" width="500" height="500" />
+<img src="https://user-images.githubusercontent.com/50231941/223144152-6923b848-3216-4bb2-a334-cf576dc187e9.png" width="500" height="500" />
 
  * 언리얼엔진 적용
  
-<img src="https://user-images.githubusercontent.com/50231941/223144331-dd7d5cc8-d8cb-45cc-89cc-bbbfdd0e9aa9.png" width="500" height=500" />
+<img src="https://user-images.githubusercontent.com/50231941/223144331-dd7d5cc8-d8cb-45cc-89cc-bbbfdd0e9aa9.png" width="500" height="500" />
 
  * GIF
  
